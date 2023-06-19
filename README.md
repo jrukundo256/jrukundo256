@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Howdy! I'm Jonathan Rukundo</h3>
 
-<!--
-**jrukundo256/jrukundo256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrukundo256&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://lucent-churros-582b61.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="https://twitter.com/iam_rukundo" target="_blank">Twitter</a> •
+  <a href="mailto:rukundojonathan360@gmail.com">Send email</a>
+</p>
+
+ <!-- About section -->
+
+---
+✨ A software developer by day, UI/UX design maestro by night: Crafting seamless interfaces and immersive web experiences to shape the digital landscape. I find joy in crafting captivating user interfaces.
+
+
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />  
+
+- :hammer_and_pick: Tools: HTML5, CSS, WordPress, JS, React, Svelte, Figma
+
+- 📫 How to reach me: [@iam_rukundo](https://twitter.com/iam_rukundo)
+
+- ⚡ Fun fact: I enjoy running long distances and playing Fantasy Football
+
+<!-- About section: END -->
+
+###### 💾 EOF
