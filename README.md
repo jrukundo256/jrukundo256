@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://lucent-churros-582b61.netlify.app/" target="_blank">Portfolio</a> •
   <a href="https://twitter.com/iam_rukundo" target="_blank">Twitter</a> •
-  <a href="mailto:rukundojonathan360@gmail.com">Send email</a>
+  <a href="mailto:rukundojonathan360@gmail.com">Send Email</a>
 </p>
 
  <!-- About section -->
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me: [@iam_rukundo](https://twitter.com/iam_rukundo)
 
-- ⚡ Fun fact: I enjoy running long distances and playing Fantasy Football
+- ⚡ Fun fact: I enjoy running long distances and playing fantasy football
 
 <!-- About section: END -->
 
